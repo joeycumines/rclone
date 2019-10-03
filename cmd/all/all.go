@@ -5,6 +5,7 @@ import (
 	// Active commands
 	_ "github.com/rclone/rclone/cmd"
 	_ "github.com/rclone/rclone/cmd/about"
+	_ "github.com/rclone/rclone/cmd/ansible"
 	_ "github.com/rclone/rclone/cmd/authorize"
 	_ "github.com/rclone/rclone/cmd/cachestats"
 	_ "github.com/rclone/rclone/cmd/cat"
